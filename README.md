@@ -30,10 +30,16 @@ The website does not currently include login functionality or a view cart featur
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please follow these steps:
 
-
+Fork the repository
+Create a new branch (git checkout -b feature/AmazingFeature)
+Make your changes
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 Thashneem Fathima - thashneemsyed@gmail.com
+
 
